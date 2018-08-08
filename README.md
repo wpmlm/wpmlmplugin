@@ -13,9 +13,9 @@ The WP MLM Plugin has the most superior design and features that once you try it
 
 # FEATURES OF WP MLM PLUGIN
 Have a look at the features in the dashboard of our WP MLM plugin to get a better outlook of the plugin.
+![wp mlm software dashboard](https://user-images.githubusercontent.com/41327270/43835082-2778297e-9b2e-11e8-8c9b-e4aba55fbdd7.png)
 
- 
- The plugin has a separate dashboards for admin and users. We will go through each of them.
+The plugin has a separate dashboards for admin and users. We will go through each of them.
 # Admin Side 
 The dashboard shows the vital data in brief, like the downlines, bonus details, Debit and credit info of the E-wallet, a list of the recently joined users, top performers and a graphical display of the users joined each month. Certain features are exclusively accessible to the admin. These include options to set the Registration package, Payment settings etc. He/she can monitor the entire downline and their business activities with a single click.
 
