@@ -35,7 +35,9 @@ The dashboard of the user end in the plugin displays all the key data just like 
 5. Referral Details- This tab shows a list of all the downline members recruited by you along with the contact details and joining date.
 
 For more features : https://wordpress.org/plugins/wp-mlm/
+
 Try WP MLM Software Plugin Demo : http://wpmlmsoftware.com/wp-mlm-software-demo/ 
+
 Also, try out our Standard [MLM Software Demo](https://infinitemlmsoftware.com/preset-demo.php).
 
 The paid version of WP MLM Plugin allows a couple of additional features like facility for admin to offer customised packages to the users and easy generation of reports on sales, inventory etc.
