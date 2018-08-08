@@ -30,7 +30,9 @@ These are the various data available to the admin.
 The dashboard of the user end in the plugin displays all the key data just like the dashboard of the admin panel. The design of the panel is highly user friendly and convenient since the entire data has been summarised in the dashboard and can be viewed on a single page. 
 1. My profile - The sponsor information, package details ,contact information and options to update password are displayed here.
 2. Genealogy Tree -  The tree view is displayed for easy understanding of the entire network, including a clear picture of his/her upline and downline.
-3. Referral Details- This tab shows a list of all the downline members recruited by you along with the contact details and joining date.
+3. E-Wallet Management -  Similar to the admin panel, there are options for fund transfer. The user can also see the transfer details within a particular period of time.
+4. Bonus Details - The user can view the compensation and the bonus details. Bonus can either be a flat bonus or a percentage of sales.
+5. Referral Details- This tab shows a list of all the downline members recruited by you along with the contact details and joining date.
 
 For more features : https://wordpress.org/plugins/wp-mlm/
 
