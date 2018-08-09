@@ -37,7 +37,7 @@ The dashboard of the user end in the plugin displays all the key data just like 
 
 For more features : https://wordpress.org/plugins/wp-mlm/
 
-Try WP MLM Software Plugin Demo : http://wpmlmsoftware.com/wp-mlm-software-demo/ 
+Try WP MLM Software Plugin Demo : https://wpmlmsoftware.com/wp-mlm-software-demo/ 
 
 Also, try out our Standard [MLM Software Demo](https://infinitemlmsoftware.com/preset-demo.php).
 
