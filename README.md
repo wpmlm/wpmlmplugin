@@ -1,4 +1,4 @@
-# WP MLM Software Plugin
+# WordPress MLM Software Plugin
 
 WP MLM Plugin by Infinite MLM Software enables you to run your network marketing business from the comfort zone of your WP website. We have ensured that the design is entirely user friendly and any one with the basic know-how of using a computer can make use of the plugin and its features in the most effortless manner. All major MLM business plans like Unilevel Plan, Party MLM Plan, Matrix MLM Plan etc and their compensation schemes have been added to the WP MLM Plugin in a coherent manner. Equipped with the most advanced features and  other profound tools aimed at reducing the complexity of the network,WP MLM Plugin allows the user to track commissions and bonuses and easy payouts, thereby simplifying the management on the whole. 
 
@@ -11,7 +11,6 @@ The Plugin has a highly responsive design an is well suited for mobile phones, t
 Paypal is the payment gateway in the plugin for the users to enjoy fast and secure medium of transactions.
 
 The WP MLM Plugin has the most superior design and features that once you try it, you will never let it go!
-     Visit our website : http://wpmlmsoftware.com/ 
 
 # FEATURES OF WP MLM PLUGIN
 Have a look at the features in the dashboard of our WP MLM plugin to get a better outlook of the plugin.
