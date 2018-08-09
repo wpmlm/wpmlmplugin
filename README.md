@@ -1,6 +1,8 @@
 # WP MLM Software Plugin
 
-WP MLM Plugin from IOSS enables you to run your network marketing business from the comfort zone of your WP website. We have ensured that the design is entirely user friendly and any one with the basic know-how of using a computer can make use of the plugin and its features in the most effortless manner. All major MLM business plans like Unilevel Plan, Party MLM Plan, Matrix MLM Plan etc and their compensation schemes have been added to the WP MLM Plugin in a coherent manner. Equipped with the most advanced features and  other profound tools aimed at reducing the complexity of the network,WP MLM Plugin allows the user to track commissions and bonuses and easy payouts, thereby simplifying the management on the whole. 
+WP MLM Plugin by Infinite MLM Software enables you to run your network marketing business from the comfort zone of your WP website. We have ensured that the design is entirely user friendly and any one with the basic know-how of using a computer can make use of the plugin and its features in the most effortless manner. All major MLM business plans like Unilevel Plan, Party MLM Plan, Matrix MLM Plan etc and their compensation schemes have been added to the WP MLM Plugin in a coherent manner. Equipped with the most advanced features and  other profound tools aimed at reducing the complexity of the network,WP MLM Plugin allows the user to track commissions and bonuses and easy payouts, thereby simplifying the management on the whole. 
+
+Get more details at - https://infinitemlmsoftware.com
 
 The developers have ensured that the design of the WP MLM Plugin is in a manner such that it would merge seamlessly with the WP website. The user as well as the admin can enjoy an uncomplicated experience while using the plugin.
 
